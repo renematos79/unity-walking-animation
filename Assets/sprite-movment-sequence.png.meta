@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: 2fe32dd83dced4b1c8aa0138d45ef9da
+timeCreated: 1496718268
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite-movment-sequence_0
+    21300002: sprite-movment-sequence_1
+    21300004: sprite-movment-sequence_2
+    21300006: sprite-movment-sequence_3
+    21300008: sprite-movment-sequence_4
+    21300010: sprite-movment-sequence_5
+    21300012: sprite-movment-sequence_6
+    21300014: sprite-movment-sequence_7
+    21300016: sprite-movment-sequence_8
+    21300018: sprite-movment-sequence_9
+    21300020: sprite-movment-sequence_10
+    21300022: sprite-movment-sequence_11
+    21300024: sprite-movment-sequence_12
+    21300026: sprite-movment-sequence_13
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite-movment-sequence_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 300
+        width: 55
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-movment-sequence_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 300
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-movment-sequence_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 300
+        width: 103
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-movment-sequence_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 300
+        width: 55
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-movment-sequence_4
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 300
+        width: 62
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-movment-sequence_5
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 300
+        width: 103
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-movment-sequence_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 149
+        width: 55
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-movment-sequence_7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 149
+        width: 62
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-movment-sequence_8
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 149
+        width: 103
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-movment-sequence_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 149
+        width: 55
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-movment-sequence_10
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 149
+        width: 63
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-movment-sequence_11
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 149
+        width: 101
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-movment-sequence_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 62
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-movment-sequence_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 62
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
